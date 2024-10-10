@@ -1,13 +1,1 @@
-{
-    "tickets": [
-        {
-            "id": "0f98289f-a278-431d-bf12-d1ca87b0c71c",
-            "equipment": "Teclado",
-            "description": "Teclado nao funciona",
-            "user_name": "Rodrigo",
-            "status": "open",
-            "created_at": "2024-10-10T07:05:19.978Z",
-            "updated_at": "2024-10-10T07:05:19.978Z"
-        }
-    ]
-}
+{"tickets":[{"id":"0f98289f-a278-431d-bf12-d1ca87b0c71c","equipment":"Teclado","description":"Teclado nao funciona","user_name":"Rodrigo","status":"open","created_at":"2024-10-10T07:05:19.978Z","updated_at":"2024-10-10T07:05:19.978Z"},{"id":"919e8f1b-d131-445d-a433-de747fe3814e","equipment":"Computador","description":"Computador nao funciona","user_name":"Rodrigo","status":"open","created_at":"2024-10-10T07:14:59.963Z","updated_at":"2024-10-10T07:14:59.963Z"}]}

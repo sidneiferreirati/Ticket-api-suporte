@@ -28,4 +28,8 @@ export class Database {
 
     this.#persist();
   }
+
+  select(table) {
+    return this.#database[table];
+  }
 }
